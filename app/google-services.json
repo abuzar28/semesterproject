@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49188340452",
+    "firebase_url": "https://semsterprojectmc-default-rtdb.firebaseio.com",
+    "project_id": "semsterprojectmc",
+    "storage_bucket": "semsterprojectmc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49188340452:android:162919ebbd5b5e6281e2f1",
+        "android_client_info": {
+          "package_name": "com.example.semesterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49188340452-oj1n49faoopfb3q15uu1o2qmec7i3ec5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.semesterproject",
+            "certificate_hash": "8ba5e547b59077e92b8beee29f034b54cc9494e0"
+          }
+        },
+        {
+          "client_id": "49188340452-l590duiocutg4edi47958ksq59j1c0nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgFO8vW956pRmAtdCkXkz6QB1e9VUupA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49188340452-l590duiocutg4edi47958ksq59j1c0nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
